@@ -22,6 +22,7 @@
 - [ ] One speaker per clip; each line spoken by the right character.
 - [ ] Story has hook, trouble, effort, turning moment, change of heart, moral line and a callback gag.
 - [ ] Family-friendly and respectful; nothing mocks a deity, religion, caste, region or real person.
+- [ ] No deity is drawn as a character or given dialogue; devotion shown only through symbols and devotees' reactions.
 - [ ] Scene ledger written before generation and kept up to date.
 
 ## References and consistency

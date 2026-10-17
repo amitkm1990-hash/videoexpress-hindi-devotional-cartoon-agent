@@ -29,6 +29,7 @@ Style direction comes from a visual study of the reference video https://www.you
 - STYLE_BIBLE.md — what the reference video looks like and how to reproduce it
 - examples/example-request.md — paste-ready requests
 - examples/story-mitti-ki-ghanti.md — an original 46-clip Hindi script "मिट्टी की घंटी" with cast, set layouts, narration and sample prompts
+- examples/story-jai-jagannath-chhote-bhakt.md — an original 46-clip Hindi Rath Yatra script "जय जगन्नाथ | रथ यात्रा में छोटे भक्त का चमत्कार" with a respectful-depiction rule, cast, set layouts and sample prompts
 - evals/acceptance-checklist.md — production acceptance checklist
 
 ## Known limits
