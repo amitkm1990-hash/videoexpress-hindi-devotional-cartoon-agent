@@ -97,13 +97,13 @@ At most three total attempts per clip. After that, use the best candidate and re
 2. Open Media Library → My Media → My AI Videos. Match each clip to its scene by job or asset ID, not by newest-first order.
 3. Put clips on the timeline in story order, each exactly once (right-click → Add to Timeline), verifying one new clip per action. Trim each clip's head and tail so the gap from the last word of one clip to the first word of the next clip is one second, no more and no less, never cutting speech. The picture must never go blank or black between clips and no two lines may overlap; if a clip ends early on a held pose, keep that pose rather than leaving a gap. Check every junction on the timeline after trimming.
 4. If the editor offers a text track, add the two-line Hindi subtitles from the script (white, dark outline, bottom centre) and, if the user supplied a channel name, a small top-right watermark. Otherwise skip and report it.
-5. Optional soft background music only from VideoExpress's included library, kept low under speech. Never use a copyrighted bhajan or film song.
-6. Run Auto Align Clips, check order, count, one-second speech gaps, no blank frames and total runtime, then save and confirm the save on the correct project.
+5. Background music is required for the entire video, from the first clip to the last. Add one soft, calm, devotional-friendly instrumental track from VideoExpress's included library on its own audio track, stretched or looped (or several tracks placed back to back) so no part of the timeline is silent of music. Keep it low (around 10–20% volume) so every spoken line stays clearly audible, and fade out at the very end. Never use a copyrighted bhajan or film song. If the editor offers no music library or audio track, report that instead of skipping silently.
+6. Run Auto Align Clips, check order, count, one-second speech gaps, no blank frames, music covering the full runtime, and total runtime, then save and confirm the save on the correct project.
 7. Export once: MP4, Full HD, best included quality, same ratio. Do not buy upgrades. Check the export exists and opens before calling it done.
 
 ## 8. Final report
 
-Report: project name, ratio, style, language, clip count, measured runtime, saved and exported status, clips regenerated and why, and which checks (such as listening to audio) could not be performed. Do not end with an offer to do an already authorized step.
+Report: project name, ratio, style, language, clip count, measured runtime, background music track used and whether it covers the whole video, saved and exported status, clips regenerated and why, and which checks (such as listening to audio) could not be performed. Do not end with an offer to do an already authorized step.
 
 ## 9. Pause only when
 
