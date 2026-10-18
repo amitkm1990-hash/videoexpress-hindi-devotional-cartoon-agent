@@ -17,11 +17,11 @@ Derived from a visual study of the reference video "गणेश जी के �
 | Adult characters | Taller, slimmer, normal-proportioned adults with soft faces, saree and jewellery detail, calmer expressions. | Elders and adults are not chibi; keep faces gentle |
 | Animals and creatures | A giant stylised bird with layered feathers, a fruit basket, simple props. Creatures are stylised and friendly. | Optional animal companion with big eyes; keep it non-speaking unless needed |
 | Backgrounds | Pastel painted worlds: sky gradients with clouds, big stone pillars, pink-purple rock formations, snow-covered blue mountains, blossoming bushes. Strong depth, bright daylight. | Environment reference per location and fixed layout text |
-| Framing | Mostly medium two-shots and group shots, cutting to a close-up of one speaking face; occasional wide establishing shots. Calm, mostly locked camera. | Two-shot openers, solo close-ups for each spoken line |
+| Framing | Mostly medium two-shots and group shots, cutting to a close-up of one speaking face; occasional wide establishing shots. Calm, mostly locked camera. | Two-shot and group openers, close-ups and over-the-shoulder shots that keep the listener visible, and a multi-shot clip at least every fifth clip |
 | Animation | Limited animation: blinks, head tilts, small hand movements, mouth opening and closing with speech. | Prompts ask for gentle actions and mouth moving with the words |
 | Subtitles | Hindi Devanagari subtitles, white with dark outline, bottom centre, one or two lines. | Added only in the editor as a text layer |
 | Watermark | Small channel logo in the top-right corner. | Optional text watermark with the user's own channel name, added in the editor only |
-| Language | Simple, warm, colloquial Hindi, clear child-friendly sentences, moral explained in dialogue. | Short Devanagari lines, one speaker per clip |
+| Language | Simple, warm, colloquial Hindi, clear child-friendly sentences, moral explained in dialogue. | Short Devanagari lines at a normal pace (neither slow nor fast), one speaker per clip, spoken to a listener on screen, one second of silence between scenes |
 | Tone | Devotional, affectionate, family values, gentle humour, mischief between children. | Moral-story structure, light comic relief, respectful treatment |
 | Episode shape (inferred from the description) | A question or problem sends children on a small journey, with a lesson about care, family or kindness. | Hook → trouble → effort → turning moment → resolution → moral → final gag |
 
@@ -41,7 +41,8 @@ Each character needs: a unique silhouette, hair shape and colour, an outfit colo
 
 - VideoExpress Advanced Mode generates the speech and the mouth movement from the prompt line "<Name> says in Hindi: <line>". Lipsync HD is not used.
 - Chibi characters have tiny mouths, so ask for "mouth opens and closes clearly in time with the words" and use a mid or close shot so the movement is readable.
-- Non-speakers in a two-shot tend to move their mouths too. Use a solo shot of the speaker for each line.
+- Non-speakers in a two-shot tend to move their mouths too. Keep the listeners in the frame and say in the prompt that they listen with closed mouths. If a listener still mouths the line, simplify the pose or move the listener to the back of the group, and use a solo shot only as a last resort.
+- Ask for a normal conversational pace, neither slow nor fast, and end each clip on a held pose with about one second of silence so the assembly gap is exactly one second.
 - Lines over 40 Devanagari characters are often cut off at clip end. Add two seconds or shorten the line.
 
 ## Set layout rule
