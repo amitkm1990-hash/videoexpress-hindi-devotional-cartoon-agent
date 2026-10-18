@@ -18,7 +18,8 @@
 - [ ] Mostly medium shots and two-shots with close-ups for key lines; calm camera.
 
 ## Script and language
-- [ ] Spoken lines are Hindi in Devanagari, dialogue at most 40 characters and narrator lines at most 48.
+- [ ] Spoken lines are Hindi in Devanagari, each line at most 40 characters.
+- [ ] No narrator or voice-over: every spoken line comes from a character on screen.
 - [ ] One speaker per clip; each line spoken by the right character and addressed to a named listener who is on screen.
 - [ ] Other characters of the scene shown as silent listeners with closed mouths; ledger has a "Spoken to" column.
 - [ ] Every line delivered at a normal pace, neither slow nor fast.
@@ -41,7 +42,6 @@
 - [ ] Exactly two arms and two hands per person; no fused or extra limbs.
 - [ ] Lines spoken fully; cut-off clips fixed by +2 seconds or a shorter line.
 - [ ] Dialogue clips used Advanced Mode with per-line Manual Video Length, not Lipsync HD.
-- [ ] Narrator clips used a verified Hindi-capable voice, or were converted to narrator-character lines with a note in the report.
 - [ ] At most three attempts per clip; compromises recorded.
 
 ## Assembly and delivery
@@ -50,4 +50,4 @@
 - [ ] Hindi subtitles and optional watermark added only as editor text layers; otherwise reported as skipped.
 - [ ] Background music, if any, from the included library only and kept low.
 - [ ] Project saved and save confirmed; MP4 Full HD exported once and verified to open.
-- [ ] Report lists clip count, runtime, voice route, regenerated clips and checks that could not be performed.
+- [ ] Report lists clip count, runtime, regenerated clips and checks that could not be performed.
